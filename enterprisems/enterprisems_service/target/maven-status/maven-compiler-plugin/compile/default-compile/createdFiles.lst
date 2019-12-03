@@ -1,0 +1,13 @@
+service\impl\UserServiceImpl.class
+service\impl\PermissionServiceImpl.class
+service\IUserService.class
+org\enterprisems_service\App.class
+service\impl\ProductServiceImpl.class
+service\ISysLogService.class
+service\IPermissionService.class
+service\IProductService.class
+service\IRoleService.class
+service\impl\SysLogServiceImpl.class
+service\IOrdersService.class
+service\impl\RoleServiceImpl.class
+service\impl\OrdersServiceImpl.class

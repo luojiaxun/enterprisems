@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [03/Dec/2019:10:55:58 +0800] "GET /enterprisems_web HTTP/1.1" 302 - http-bio-8888-exec-1 0
+0:0:0:0:0:0:0:1 - - [03/Dec/2019:10:55:58 +0800] "GET /enterprisems_web/ HTTP/1.1" 302 - http-bio-8888-exec-2 51
+0:0:0:0:0:0:0:1 - - [03/Dec/2019:10:55:58 +0800] "GET /enterprisems_web/login.jsp HTTP/1.1" 200 2629 http-bio-8888-exec-3 454
+0:0:0:0:0:0:0:1 - - [03/Dec/2019:10:56:11 +0800] "POST /enterprisems_web/login.do HTTP/1.1" 200 13525 http-bio-8888-exec-4 2044
+0:0:0:0:0:0:0:1 - - [03/Dec/2019:10:56:14 +0800] "GET /enterprisems_web/sysLog/findAll.do HTTP/1.1" 200 17991 http-bio-8888-exec-5 650

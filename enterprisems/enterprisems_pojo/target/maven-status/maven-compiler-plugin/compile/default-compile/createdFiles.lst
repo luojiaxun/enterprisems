@@ -1,0 +1,9 @@
+pojo\Permission.class
+pojo\Product.class
+pojo\Member.class
+org\enterprisems_pojo\App.class
+pojo\Role.class
+pojo\Traveller.class
+pojo\SysLog.class
+pojo\UserInfo.class
+pojo\Orders.class
